@@ -14,9 +14,9 @@ That said, the development team for Zephyr consists of only two people:
 ## Driplomat:
 *Lead Developer | Zephyr Prime Deluxe Enthusiast | Nidus Main*
 
-![Driplomat](https://github.com/theSm1th/Zephyr/blob/master/docs/dev_profile_DP.png)
+![Driplomat](./dev_profile_DP.png)
 
-## ladmad
+## ladmad:
 *Developer | Specificially asked for his name not to be capitalised | Baruuk Main*
 
-![ladmad](https://github.com/theSm1th/Zephyr/blob/master/docs/dev_profile_LM.png)
+![ladmad](./dev_profile_LM.png)
