@@ -11,4 +11,4 @@ This will also DM you with a response from the team when we respond to it!
 
 
 ## 1.0
-Initial release!
+Initial release! We hope you enjoy Zephyr and its features. Command /evaluate available.
