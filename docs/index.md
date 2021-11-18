@@ -19,4 +19,4 @@ That said, the development team for Zephyr consists of only two people:
 ## ladmad
 *Developer | Specificially asked for his name not to be capitalised | Baruuk Main*
 
-![ladmad](https://github.com/theSm1th/Zephyr/blob/master/docs/dev_profile_DP.png)
+![ladmad](https://github.com/theSm1th/Zephyr/blob/master/docs/dev_profile_LM.png)
