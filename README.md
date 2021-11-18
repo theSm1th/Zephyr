@@ -1,2 +1,2 @@
 # zephyr
-A website for that one discord bot
+A small blog-like website for that one discord bot
