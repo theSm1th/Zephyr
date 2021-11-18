@@ -16,7 +16,7 @@ That said, the development team for Zephyr consists of only two people:
 
 ![Driplomat](./dev_profile_DP.png)
 
-## ladmad:
+## Ladmad:
 *Developer | Specificially asked for his name not to be capitalised | Baruuk Main*
 
-![ladmad](./dev_profile_LM.png)
+![lol i did it anyways](./dev_profile_LM.png)
